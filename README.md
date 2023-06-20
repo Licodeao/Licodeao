@@ -49,4 +49,4 @@
 #### Stats 🌟
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Licodeao&show_icons=true&theme=radical)
 
-<a href="https://app.daily.dev/licodeao"><img src="https://api.daily.dev/devcards/00c0186ddebf4f3e87a22e8051b15c0f.png?r=6wd" width="400" alt="Licodeao's Dev Card"/></a>
+<a href="https://app.daily.dev/licodeao"><img src="https://github.com/Licodeao/Licodeao/blob/master/devcard.svg" width="400" alt="Licodeao's Dev Card"/></a>
