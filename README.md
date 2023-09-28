@@ -1,6 +1,6 @@
 ### Yoo, I'm Licodeao 👋
 
-- 🌱 I’m currently interning at @kingdee
+- 🌱 I’m currently interning at kingdee
 - 🙌 I’m a TypeScript Full-stack developer
 - 💻 I love coding and learn anything about it
 - ✍ I love writing articles about Front-end and other things
