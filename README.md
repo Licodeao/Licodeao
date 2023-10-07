@@ -1,7 +1,7 @@
 ### Yoo, I'm Licodeao 👋
 
 - 🌱 I’m currently interning at kingdee
-- 🙌 I’m a TypeScript Full-stack developer
+- 🙌 I’m a TypeScript Full-stack developer & Rust lover
 - 💻 I love coding and learn anything about it
 - ✍ I love writing articles about Front-end and other things
 - 👀 You can visit my website from <a href="https://licodeao.top">here</a>
