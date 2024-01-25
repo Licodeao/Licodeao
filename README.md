@@ -6,7 +6,7 @@
 - ✍ I love writing articles about Front-end and other things
 - 👀 You can visit my website from <a href="https://licodeao.top">here</a>
 - 💬 Ask me about from <a href="https://github.com/Licodeao/Licodeao/issues">here</a>
-- 📫 How to reach me: 1019805199@qq.com
+- 📫 How to reach me: <a href="mailto:licodeao@gmail.com">click here :point_left:</a>
 
 #### Things I code with ⭐
 
