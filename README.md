@@ -1,12 +1,12 @@
 ### Yoo, I'm Licodeao 👋
 <img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D22580%26project%3D%26in=0">
-- 🌱 I’m currently interning at kingdee
-- 🙌 I’m a TypeScript Full-stack developer & Rustacean
-- 💻 I love coding and learn anything about it
-- ✍ I love writing articles about Front-end and other things
-- 👀 You can visit my website from <a href="https://licodeao.top">here</a>
-- 💬 Ask me about from <a href="https://github.com/Licodeao/Licodeao/issues">here</a>
-- 📫 How to reach me: <a href="mailto:licodeao@gmail.com">click here :point_left:</a>
+- 🌱 I’m currently interning at kingdee<br>
+- 🙌 I’m a TypeScript Full-stack developer & Rustacean<br>
+- 💻 I love coding and learn anything about it<br>
+- ✍ I love writing articles about Front-end and other things<br>
+- 👀 You can visit my website from <a href="https://licodeao.top">here</a><br>
+- 💬 Ask me about from <a href="https://github.com/Licodeao/Licodeao/issues">here</a><br>
+- 📫 How to reach me: <a href="mailto:licodeao@gmail.com">click here :point_left:</a><br>
 
 #### Things I code with ⭐
 
