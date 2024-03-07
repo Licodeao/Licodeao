@@ -4,7 +4,7 @@
 - 🙌 I’m a TypeScript Full-stack developer & Rustacean<br>
 - 💻 I love coding and learn anything about it<br>
 - ✍ I love writing articles about Front-end and other things<br>
-- 👀 You can visit my website from <a href="https://licodeao.top">here</a><br>
+- 👀 You can visit my website from <a href="https://licodeao.netlify.app/">here</a><br>
 - 💬 Ask me about from <a href="https://github.com/Licodeao/Licodeao/issues">here</a><br>
 - 📫 How to reach me: <a href="mailto:licodeao@gmail.com">click here :point_left:</a><br>
 
