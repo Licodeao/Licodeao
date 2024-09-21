@@ -1,7 +1,7 @@
 ### Yoo, I'm Licodeao 👋
 <img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D22580%26project%3D%26in=0">
 - 🌱 I’m currently preparing for applying master of Australia. pre Kingdee intern.<br>
-- 🙌 I’m a TypeScript Full-stack developer & Rustacean<br>
+- 🙌 I’m a TypeScript Full-stack developer & Rustacean & Web3 beginner<br>
 - 💻 I love coding and learn anything about it<br>
 - ✍ I love writing articles about Front-end and other things<br>
 - 👀 You can visit my website from <a href="https://licodeao.netlify.app/">here</a><br>
